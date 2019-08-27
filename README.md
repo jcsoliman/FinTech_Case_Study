@@ -3,14 +3,14 @@
 ## Overview and Origin
 
 * Name of company: Amazon
-* When was the company incorporated?
-* Who are the founders of the company
-* How did the idea for the company (or project) come about?
-* How is the company funded? How much funding have they received?
+* When was the company incorporated? Incorporated in 1994 in Seattle, WA; re-incorporated in 1996 in DE
+* Who are the founders of the company? Jeff Bezos
+* How did the idea for the company (or project) come about? Take advantage of the internet to sell goods. The company initially sold books because books are a product that does not require to be held before purchase.
+* How is the company funded? How much funding have they received? xx
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? Enabling businesses to transact friction-less payments with consumers and other businesses.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
