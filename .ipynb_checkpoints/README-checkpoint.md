@@ -1,25 +1,11 @@
-# Celsius Network
-
-*The world needs banking but it does not need banks.*
-
-*#UnbankYourself*
-
-![Celsius_Network](Images/Celsius_Logo.png)
-
-
+# Amazon Payments
 
 ## Overview and Origin
 
-Celsius Network was born on a piece of napkin on the premise that banking is broken. In the summer of 2017, Alex Mashinsky and S. Daniel Leon came up with a model that could disrupt traditional banking by providing financial services that act in the interest of the people. The company's mission is to "harness blockchain technology to provide unprecedented financial freedom, economic opportunity, and income equality for the 99%."
-
-On March 23rd, 2018, the company successfully completed its ICO (initial coin offering) raising USD 50mm with CEL tokens sold at USD 0.20 each.
-
-![Celsius_Milestone](Images/Celsius_Milestone.svg)
-
-
-
-
-
+* Name of company: Amazon
+* When was the company incorporated? Incorporated in 1994 in Seattle, WA; re-incorporated in 1996 in DE
+* Who are the founders of the company? Jeff Bezos
+* How did the idea for the company (or project) come about? Take advantage of the internet to sell goods. The company initially sold books because books are a product that does not require to be held before purchase.
 * How is the company funded? How much funding have they received? xx
 
 ## Business Activities:
@@ -59,5 +45,3 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize? 
 
 * Why are these technologies appropriate for your solution?
-
-## Addendum - References
