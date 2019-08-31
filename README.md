@@ -12,21 +12,29 @@
 
 Celsius Network was born on a piece of napkin on the premise that banking is broken. In the summer of 2017, Alex Mashinsky and S. Daniel Leon came up with a model that could disrupt traditional banking by providing financial services that act in the interest of the people. The company's mission is to "harness blockchain technology to provide unprecedented financial freedom, economic opportunity, and income equality for the 99%."
 
-On March 23rd, 2018, the company successfully completed its ICO (initial coin offering) raising USD 50mm with CEL tokens sold at USD 0.20 each.
-
 ![Celsius_Milestone](Images/Celsius_Milestone.svg)
 
+On March 23rd, 2018, the company successfully completed its ICO (initial coin offering) raising USD 50mm with CEL tokens sold at USD 0.20 each.
 
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+<coingecko-coin-ticker-widget currency="usd" coin-id="celsius-degree-token" locale="en"></coingecko-coin-ticker-widget>
 
+In June 2018, the Celsius app version 1.0.0 was launched initially allowing users to create a wallet for depositing and borrowing their ETH and BTC coins. Currently operating in version 3.1.0, the app allows 19 coins with 7 more underway.
 
+![Ceslsius App](Images/Celsius_App_v1.jpg)
 
-* How is the company funded? How much funding have they received? xx
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve? Enabling businesses to transact friction-less payments with consumers and other businesses.
+* What specific financial problem is the company or project trying to solve?
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+- **Low interest on deposits, high interest on loans**
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? 
+
+- **Anyone who has digital assets aka cryptocurrencies, **
+
+
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) Amazon has 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
@@ -61,3 +69,4 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 
 ## Addendum - References
+ https://www.coingecko.com/
