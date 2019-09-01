@@ -45,25 +45,42 @@ Currently operating in version 3.1.0, the app allows 19 coins with 7 more underw
 
 
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-- **democratized interest income - giving back up to 80% of revenue to customers - instead of shareholders, easily accessible lending platform**
+- **democratized interest income - giving back up to 80% of revenue to customers - instead of shareholders, easily accessible lending platform, allows integration for corporate partners with Celsius network, p2p crypto payments fee-free, founded by a serial social entrepreneur, same guy who brought to the world VoIP.**
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
--**uses blockchain technology**
+-**uses blockchain technology. API that allows partners to use or delegate access to the Celsius Network features including KYC checking, deposits and withdrawals, balance and transaction checking,**
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in? Lending
+* What domain of the financial industry is the company in?
+**Covers multiple domains including Personal Finance, Lending, Blockchain, Cryptocurrency, Open Banking, and Payments.**
 
-* What have been the major trends and innovations of this domain over the last 5-10 years? Peer-to-peer lending
+* What have been the major trends and innovations of this domain over the last 5-10 years? -
 
-* What are the other major companies in this domain? ?
+* What are the other major companies in this domain?
 
+- **Peer-to-peer lending started in February 2005 with the launch of a UK company, Zopa. A year after, the US launched its first P2P lending Prosper, the first US P2P lending start-up, followed by Lending Club. In 2008, This changed in 2008 after the Securities and Exchange Commission (SEC) intervened, citing the need for compliance with the Securities Act of 1933.**
+
+**This led to major changes in the P2P space. Lenders were required to register with the commission, which kicked LendingClub out of action for six months before it could be reactivated. Others left the market altogether. Zopa’s CEO cited registering with the commission as the “key reason why we didn’t launch … in the US.”**
+
+**The market is expected to grow from 2016 to 2024 at 48.2% CAGR - worth USD 897.85bn by the end of 2024. This tremendous growth has compelled big players in traditional banking to respond with investments such as Marcus by Goldman Sachs.**
+
+**It is not clear whether this market size includes the crypto market. but setting aside crypto adoption rate, it is clear that there is an upside potential for companies like Celsius to take advantage of this growing market.**
+
+**Looking at the crypto ecosystem, Celsius is competing with start-ups offering similar services like SALT, Ethlend and Nexo.**
+
+![Comparison](Images/Comparison_Matrix.jpg)
+##### *Image source: https://cryptorated.com/ico-rating/celsius-network/
+
+**Celsius has clear advantage on platform accessibility, ie mobile apps and having trusted third party custody on both crypto and cash margin and collateral.**
 
 ## Results
 
 * What has been the business impact of this company so far?
+
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -86,3 +103,7 @@ What solution does this company offer that their competitors do not or cannot of
 https://www.businesswire.com/news/home/20190801005758/en/%C2%A0Celsius-Tops-300-Million-Coin-Deposits-Completes
 https://www.badcredit.org/news/celsius-network-offers-crypto-based-financial-services/
 https://www.forbes.com/sites/rachelwolfson/2019/02/05/leading-cryptocurrency-platform-completes-over-630m-in-crypto-loans-in-six-months/#e51472a526d9
+
+https://www.finder.com/p2p-lending-usa
+
+https://cryptorated.com/ico-rating/celsius-network/
