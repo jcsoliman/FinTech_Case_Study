@@ -7,16 +7,13 @@
 ![Celsius_Network](Images/Celsius_Logo.png)
 
 ## Overview and Origin
-
-Celsius Network was born on a piece of napkin on the premise that banking is broken. In the summer of 2017, Alex Mashinsky and S. Daniel Leon came up with a model that could disrupt traditional banking by providing financial services that act in the interest of the people. The company's mission is to "harness blockchain technology to provide unprecedented financial freedom, economic opportunity, and income equality for the 99%."
+----
+The Celsius idea was born on a piece of napkin in the summer of 2017. Wanting to fix the broken traditional banking system, Alex Mashinsky and S. Daniel Leon came up with a model that could disrupt traditional banking by providing financial services that act in the interest of the people. The company's mission is to "harness blockchain technology to provide unprecedented financial freedom, economic opportunity, and income equality for the 99%."
 
 ![Celsius_Milestone](Images/Celsius_Milestone.svg)
 ###### *Image Source: [Company Website](https://celsius.network)*
 
 On March 23rd, 2018, the company successfully completed its ICO (Initial Coin Offering) raising USD 50mm with CEL tokens sold at USD 0.20 each.
-
-<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget currency="usd" coin-id="celsius-degree-token" locale="en"></coingecko-coin-ticker-widget>
 
 In June 2018, the Celsius app version 1.0.0 was launched enabling the crypto community to create a wallet for their ETH and BTC coins. The wallet earns interest on coin deposits and allows users to borrow cash using the coins as collateral.
 
@@ -26,12 +23,13 @@ Since its launch, the company has continously broken records. As of the latest p
 
 
 | AUM | Loan origination | Loan trades completed | Interest payments | Members | Countries |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---:|
 | USD 300mm | USD 2bn | 160,000 | USD 3mm | 40,000 | 160 |
 
 With an impressive 2,165% growth in AUM since its inception and currently operating in Celsius app version 3.1.0, Celsius now allows 19 coins with 7 more underway.
 
 ## Business Activities
+----
 
 The company believes the traditional banking system is broken arguing that intermediaries have an unfair power over the people. Just by mere introducing the borrowers to the lenders, the current system earns a huge margin by giving back as little as 1% on deposits and charging as high as 25% interest on loans. With a hashtag #unbankyourself and a team led by a serial social entrepreneur who introduced the world to VoIP, Celsius aims to address this problem by providing a platform to earn and borrow on the blockchain. Leveraging on the technology and their asset-crypto-collateral management model, they are able to charge lower interest on loans and higher interest on deposits.
 
@@ -44,8 +42,9 @@ By providing an innovative and easily accessible personal finance platform, the 
 To expand coverage and userbase, the company allows integration of corporate partners with the Celsius network. Using Celsius API, partners are able to use or delegate access to the company's proprietary network, with features that include KYC checking, deposits and withdrawals, and balance checking.
 
 ## Landscape
+----
 
-One of Forbes' 10 FinTech start-ups tyo watch for in 2018, Celsius covers multiple FinTech domains including personal finance, lending, blockchain, cryptocurrency, open banking and payments. Although arguably, the company's primary business model aims to disrupt the peer-to-peer lending.
+One of Forbes' 10 FinTech start-ups to watch in 2018, Celsius covers multiple FinTech domains including personal finance, lending, blockchain, cryptocurrency, open banking and payments. Although arguably, the company's primary business model aims to disrupt the peer-to-peer lending.
 
 Peer-to-peer lending started in February 2005 with the launch of a UK company, Zopa. A year after, the US launched its first P2P lending Prosper, the first US P2P lending start-up, followed by now the market leader, Lending Club.
 
@@ -59,23 +58,25 @@ Looking specifically at the crypto ecosystem, Celsius is competing with start-up
 ****
 
 ## Results
+----
 
 With an audacious goal of being the killer app to help onboard 100M into the crypto ecosystem, Celsius has become one of the frontrunners in expanding the adoption of crypto. Although no crypto adoption rate attributable to Celsius services have been reported, it is evident how they are paving the way for fiat-using no-knowledge-of-blockchain individuals to get into the system.
 
 The unprecedented growth of Celsius' AUM, besting SALT, a year older than Celsius, by USD 269mm has everyone in the crypto community interested in how the company will perform going forward. Inching closer to the 200K customer base of Nexo, a fintech lending company operating for more than 10 years, Celsius has ammassed 40K members in just 2 years of operations.
 
 | Metrics | Celsius | SALT | ETHLend | Nexo |
-| --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---:| :---: |
 | AUM in USD | 300mm | 31mm | 848K | *no info avail* |
 | Loan orig. in USD | USD 2bn | *no info avail* | 466K | *no info avail*|
 | Members | 40K | *no info avail* | *no info avail* | 200K |
 | Jurisdictions | 160+ countries | *no info avail* | *no info avail* | 250+ countries | 
 
-An infant in the domain of lending, Celsius has already achieved milestones that no other fiat P2P lending companies or traditional banks have.
+An infant in the domain of lending, Celsius has already achieved milestones that no other fiat P2P lending companies or traditional banks has.
 
 ## Emerging Concern and Recommendation
+----
 
-Celsius has been transparent on how they protect their assets. From a custodial perspective, they have a strong partnership with BitGo, which employs a minting process of assets received providing protection from theft or security compromise. From a credit risk perspective, as aformentioned, deposits are backed by the LIP.
+Celsius has been very transparent on how they protect their customer's digital assets. From a custodial perspective, they have a strong partnership with BitGo, which employs a minting process of assets received providing protection from theft or security compromise. From a credit risk perspective, as aformentioned, deposits are backed by the LIP.
 
 Despite a seemingly rigid security model, there is an emerging concern on how the company is managing its operational and regulatory risk, in particular on its lending practices. It has been reported that Celsius lends on the margin-trading exchange Bitfinex, which is currently involved in controversial legal battles and regulatory investigations. While margin trading platforms absorbs the risk of default on loans, default of the exchange itself introduces a critical risk to Celsius that cannot be ignored.
 
@@ -84,6 +85,10 @@ One potential solution is providing fiduciary insurance on their user's deposits
 Unlike Salt, which covers crime and cyber liability Celsius can benefit from introducing insurance covering third party default. Arguably a challenging task given the relatively small market on crypto insurance, there have been use cases for blockchain to potentially disrupt the industry.
 
 ## Addendum - References
+----
+
+https://celsius.network
+
 https://www.coingecko.com/
 
 https://bitcoinexchangeguide.com/celsius-network-sees-a-20x-increase-in-deposits-however-many-analysts-are-concerned/
